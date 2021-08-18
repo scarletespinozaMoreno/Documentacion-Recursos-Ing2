@@ -1,6 +1,14 @@
 
 GO TO THIS LINK:
 
-https://hosteria-95a60.web.app/
+En este primer link va a parecer que no es segura la pagina pero nomas continue
+no tiene nada dañimo, el problema es que el product owner nos dio un subdomiinio
+con certificación A y para que funcione bien debíamos borrar todos los subdominios que tenia el añadidos entonces para evitarnos problemas con el  solo lo dejamos ahi. PERO SI FUNCIONA
 
-The aplication is already in host
+
+
+https://rymhosteria.ing-soft2021.com/    --- este ya esta en la web en un                                                      subdominio de Goddady dado por el                                                       cliente
+
+En caso de tener miedo en abrirlo:
+
+https://hosteria-95a60.web.app/  --- este tambien esta en un dominio de firebase
